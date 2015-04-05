@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./librato-guage 'notwork.librato-checkin.available' 1 `date +%s`
